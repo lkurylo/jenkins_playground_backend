@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace jenkins_playground_backend222
+namespace jenkins_playground_backend
 {
     public class Startup
     {
