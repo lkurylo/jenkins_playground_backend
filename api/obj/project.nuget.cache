@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wJwUrr+klxUZSK1Ub8i8qdtpr1VjFtT24I1z5Nyim71bAxr5l2vuqk+sP6pjoK9dK/bVhpxVA2XKXr30GZJOQ==",
+  "dgSpecHash": "HRM/pBtLnuukEWJ67giYUId9KFBsrXDDyeB98yb3gXmOOy7sqeEJ4x8fuJs7LYqO2nNx1bh/g5pGGWRkuUkXOw==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\jenkins_playground_backend.csproj",
+  "projectFilePath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\api\\jenkins_playground_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LKurylo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\LKurylo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

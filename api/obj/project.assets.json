@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\jenkins_playground_backend.csproj",
+      "projectUniqueName": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\api\\jenkins_playground_backend.csproj",
       "projectName": "jenkins_playground_backend",
-      "projectPath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\jenkins_playground_backend.csproj",
+      "projectPath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\api\\jenkins_playground_backend.csproj",
       "packagesPath": "C:\\Users\\LKurylo\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\obj\\",
+      "outputPath": "D:\\OneDrive\\KOMPUTERY\\Lenovo\\Desktop\\jenkins\\jenkins_playground_backend\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LKurylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -254,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
