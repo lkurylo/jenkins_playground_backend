@@ -1,2 +1,4 @@
 tests/bin/
 tests/obj/
+api/bin/
+api/obj/
