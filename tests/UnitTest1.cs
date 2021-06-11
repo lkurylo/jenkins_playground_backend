@@ -10,5 +10,11 @@ namespace tests
         {
             Assert.Equal(1, 1);
         }
+
+        [Fact]
+        public void simple_falling_test()
+        {
+            Assert.Equal(1, 2);
+        }
     }
 }
