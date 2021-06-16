@@ -20,4 +20,8 @@
     <PackageReference Include="XunitXml.TestLogger" Version="3.0.66" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\api\jenkins_playground_backend.csproj" />
+  </ItemGroup>
+
 </Project>
