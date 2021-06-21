@@ -1,0 +1,20 @@
+
+pipeline {
+  agent {
+      label: 'slave'
+  }
+  options { timestamps () }
+  // stages and rest of pipeline.
+
+  stages(){
+
+      stage('build'){
+        steps{
+            sh 'java -version'
+            echo 'Get working directory'
+            sh 'pwd'
+        }
+      }
+
+  }
+}
