@@ -1,12 +1,12 @@
 
 pipeline {
   agent {
-      label: 'slave'
+      label 'slave'
   }
-  options { timestamps () }
+  //options { timestamps () }
   // stages and rest of pipeline.
 
-  stages(){
+  stages{
 
       stage('build'){
         steps{
