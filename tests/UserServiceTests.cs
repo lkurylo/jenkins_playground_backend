@@ -6,11 +6,22 @@ namespace tests
     public class UserServiceTests
     {
         [Fact]
-        public void get_user_id_returns_correct_value(){
+        public void UserService_GetUserId_CorrectResult(){
             UserService service = new UserService();
 
             var actual = service.GetUserId();
             var expected = 1;
+
+            Assert.Equal(actual, expected);
+        }
+
+        [Fact]
+        public void UserService_GetUserId_FailingResult()
+        {
+            UserService service = new UserService();
+
+            var actual = service.GetUserId();
+            var expected = 2;
 
             Assert.Equal(actual, expected);
         }
